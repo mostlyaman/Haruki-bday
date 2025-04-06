@@ -12,7 +12,7 @@ if (c != null) {
 }
 $(".main").fadeOut(1);
 setInterval(function () {
-    const bday = new Date("2025-04-06T14:40:00.000Z")
+    const bday = new Date("2025-04-06T15:00:00.000Z")
 
     function calculateTimeLeft() {
         var now = new Date().getTime();
